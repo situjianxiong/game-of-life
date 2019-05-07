@@ -50,7 +50,7 @@
                             <goal>test</goal>
                         </goals>
                         <configuration>
-                            <skip>false</skip>
+                            <skip>true</skip>
                             <includes>
                                 <include>**/When*.java</include>
                                 <include>**/*Test.java</include>
